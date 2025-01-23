@@ -64,8 +64,7 @@ Me chamo João Batista, tenho 20 anos e sou estudante de Engenharia da Computaç
         style="padding-right: 10px;"
         src="https://github-readme-stats.vercel.app/api?username=joaov-batista&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
     />
-
-<img
+    <img
         align="left"
         alt="GitHub Stats"
         height="200"
