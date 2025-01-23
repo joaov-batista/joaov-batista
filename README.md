@@ -21,7 +21,6 @@ Me chamo João Batista, tenho 20 anos e sou estudante de Engenharia da Computaç
     </a>
 </p>
 
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
