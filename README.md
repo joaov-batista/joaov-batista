@@ -1,6 +1,6 @@
 # 🧑‍💻 João Batista
 
-**`Desenvolvedor em Python`**
+**Desenvolvedor em Python**
 
 Me chamo João Batista, tenho 20 anos e sou estudante de Engenharia da Computação. Estou focado em automações de IA com Python e explorando o desenvolvimento web e de software. Estou em busca de aprender novas linguagens para me tornar um desenvolvedor full stack e expandir meus conhecimentos nessa área. Além disso, como hobby, gosto de estudar game development.
 
@@ -21,51 +21,65 @@ Me chamo João Batista, tenho 20 anos e sou estudante de Engenharia da Computaç
     </a>
 </p>
 
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
 
-<p align="left" style="display: inline-block;">
-    <img
-        alt="HTML"
-        title="HTML"
-        width="30px"
-        style="padding-right: 10px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-    />
-    <img
-        alt="CSS"
-        title="CSS"
-        width="30px"
-        style="padding-right: 10px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-    />
-    <img
-        alt="JavaScript"
-        title="JavaScript"
-        width="30px"
-        style="padding-right: 10px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-    />
-    <img
-        alt="Python"
-        title="Python"
-        width="30px"
-        style="padding-right: 10px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-    />
-</p>
+<img
+    align="left"
+    alt="HTML"
+    title="HTML"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+/>
 
-<div style="display: flex; justify-content: space-between;">
+<img
+    align="left"
+    alt="CSS"
+    title="CSS"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+/>
+<img
+    align="left"
+    alt="JavaScript"
+    title="JavaScript"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img
+    align="left"
+    alt="Python"
+    title="Python"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
   <img
-      alt="GitHub Stats"
-      height="200"
-      style="padding-right: 10px;"
-      src="https://github-readme-stats.vercel.app/api?username=joaov-batista&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=joaov-batista&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
-  <img
-      alt="GitHub Top Langs"
-      height="200"
+
+<img
+      align="left"
+      alt="GitHub Stats"
+      height="120"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaov-batista&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
-</div>
+
+</p>
