@@ -1,6 +1,6 @@
 # 🧑‍💻 João Batista
 
-**Desenvolvedor em Python**
+**Desenvolvedor Junior em aprendizado**
 
 Me chamo João Batista, tenho 20 anos e sou estudante de Engenharia da Computação. Estou focado em automações de IA com Python e explorando o desenvolvimento web e de software. Estou em busca de aprender novas linguagens para me tornar um desenvolvedor full stack e expandir meus conhecimentos nessa área. Além disso, como hobby, gosto de estudar game development.
 
