@@ -9,7 +9,7 @@ Me chamo João Batista, tenho 20 anos e sou estudante de Engenharia da Computaç
         <img
             alt="E-mail"
             title="Entre em contato por e-mail"
-            src="https://img.shields.io/badge/E--mail-red?style=for-the-badge&logo=gmail&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23?style=for-the-badge&logo=mail&labelColor=E61B23"
         />
     </a>
     <a href="https://www.linkedin.com/in/jo%C3%A3o-batista-3259a8348/">
