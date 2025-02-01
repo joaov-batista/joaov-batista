@@ -2,7 +2,7 @@
 
 **`Desenvolvedor em aprendizado`**
 
-Me chamo João Batista, tenho 20 anos e sou estudante de Engenharia da Computação. Estou focado em automações de IA com Python e explorando o desenvolvimento web e de software. Estou em busca de aprender novas linguagens para me tornar um desenvolvedor full stack e expandir meus conhecimentos nessa área. Além disso, como hobby, gosto de estudar game development.
+Tenho 20 anos e sou estudante de Engenharia da Computação. Estou focado em aprender e me especializar em front-end, back-end e desenvolvimento em Python. Busco aprender novas linguagens para me tornar um desenvolvedor full stack e expandir meus conhecimentos nessa área. Além disso, como hobby, gosto de estudar game development.
 
 <p align="left">
     <a href="mailto:joaobatista231516@gmail.com">
