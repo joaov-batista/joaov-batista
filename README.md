@@ -81,3 +81,9 @@ Tenho 20 anos e sou estudante de Engenharia da Computação. Estou focado em apr
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaov-batista&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800"
   />
 </p>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaov-batista/joaov-batista/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaov-batista/joaov-batista/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/joaov-batista/joaov-batista/output/github-contribution-grid-snake.svg">
+</picture>
