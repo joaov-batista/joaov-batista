@@ -2,7 +2,7 @@
 
 **`Desenvolvedor em aprendizado`**
 
-Tenho 20 anos e sou estudante de Engenharia da Computação. Estou focado em aprender e me especializar em front-end, back-end e desenvolvimento em Python. Busco aprender novas linguagens para me tornar um desenvolvedor full stack e expandir meus conhecimentos nessa área. Além disso, como hobby, gosto de estudar game development.
+Tenho 20 anos e sou estudante de Engenharia da Computação. Atualmente, estou focado em aprender e me especializar em desenvolvimento Mobile, estudando as linguagens relacionadas à área. Além disso, possuo conhecimento em Python e desenvolvimento web.
 
 <p align="left">
     <a href="mailto:joaobatista231516@gmail.com">
