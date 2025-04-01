@@ -1,6 +1,6 @@
 # 🧑‍💻 João Batista
 
-**`Desenvolvedor em aprendizado`**
+**`Desenvolvedor Mobile`**
 
 Tenho 20 anos e sou estudante de Engenharia da Computação. Atualmente, estou focado em aprender e me especializar em desenvolvimento Mobile, estudando as linguagens relacionadas à área. Além disso, possuo conhecimento em Python e desenvolvimento web.
 
