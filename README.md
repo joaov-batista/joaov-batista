@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Mobile`**
 
-Tenho 20 anos e sou estudante de Engenharia da Computação. Atualmente, estou focado em aprender e me especializar em desenvolvimento Mobile, estudando as linguagens relacionadas à área. Além disso, possuo conhecimento em Python e desenvolvimento web.
+Tenho 20 anos e sou estudante de Engenharia da Computação. Atualmente, estou focado em aprender e me especializar em desenvolvimento fullstack, estudando as linguagens relacionadas à área. Além disso, possuo conhecimento em Python e mobile.
 
 <p align="left">
     <a href="mailto:joaobatista231516@gmail.com">
