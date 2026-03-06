@@ -35,14 +35,6 @@ Sou estudante de Engenharia da Computação e um desenvolvedor apaixonado por te
 </p>
 
 ---
-
-### 📊 Minhas Estatísticas
-
-<p align="center">
-  <img alt="GitHub Stats" height="160" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=joaov-batista&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img alt="Top Languages" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaov-batista&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800" />
-</p>
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaov-batista/joaov-batista/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaov-batista/joaov-batista/output/github-contribution-grid-snake-dark.svg">
